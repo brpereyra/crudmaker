@@ -6,8 +6,16 @@
   "scripts": {
     "test": "mocha"
   },
-  "author": "",
-  "license": "ISC",
+  "author": {
+    "name": "Bryan Pereyra",
+    "email": "bryan@beaxbytes.com",
+    "url": "https://beaxbytes.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brpereyra/crudmaker"
+  },
   "dependencies": {
     "express": "^4.18.2",
     "joi": "^17.11.0"
