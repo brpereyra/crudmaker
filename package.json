@@ -1,0 +1,21 @@
+{
+  "name": "@brpereyra/crudmaker",
+  "version": "0.0.1",
+  "description": "crud generator ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "joi": "^17.11.0"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0",
+    "mongoose": "^7.6.2",
+    "morgan": "^1.10.0",
+    "supertest": "^6.3.3"
+  }
+}
