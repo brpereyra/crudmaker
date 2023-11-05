@@ -1,6 +1,6 @@
 {
   "name": "@brpereyra/crudmaker",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "crud generator ",
   "main": "index.js",
   "scripts": {
